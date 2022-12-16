@@ -1,7 +1,7 @@
 import os
 from typing import List
 
-FILE_LOG_DIR = 'task 3'
+FILE_LOG_DIR = 'text files'
 ROOT_PATH = os.getcwd()
 path = os.path.join(ROOT_PATH, FILE_LOG_DIR)
 files_l = []  # список названи файлов
